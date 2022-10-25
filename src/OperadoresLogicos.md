@@ -13,16 +13,22 @@ retornar um resultado
 - negação
 
 ### Tipos:
-- Conjunção: oeração lógica que  só é verdadeira quando ambos   
+- Conjunção: operação lógica que  só é verdadeira quando ambos   
+os operadores  ou expressão são verdade.                            O-E | O-E |  R
+                                                                    :--------- | :------: | -------:
+                                                                    V | V | V
+                                                                    V | f | f
+                                                                    f | V | f
+ O - operador E - expressao R - resultado
 
-os operadores  ou expressão são verdade.                        
-#### Simbologia:                                                
+#### Simbologia:                                                          
 - &&                                                                            
 #### Terminologia
 - and(e)
 
- O-E | O-E |  R
-:--------- | :------: | -------:
- V | V | V
- V | f | f
- f | V | f
+                                                                    O-E | O-E |  R
+                                                                    :--------- | :------: | -------:
+                                                                    V | V | V
+                                                                    V | f | f
+                                                                    f | V | f
+ O - operador E - expressao R - resultado
