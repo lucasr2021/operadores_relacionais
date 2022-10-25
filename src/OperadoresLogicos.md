@@ -14,9 +14,12 @@ retornar um resultado
 
 ### Tipos:
 - Conjunção: oeração lógica que  só é verdadeira quando ambos 
-os operadores  ou expressão são verdade.
+os operadores  ou expressão são verdade.                       
 #### Simbologia:
-- &&                                                                            [!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fninjadoexcel.com.br%2Ftabela-verdade-no-excel%2F&psig=AOvVaw3LQQHWCxtg_8U2a45E0AuW&ust=1666802134308000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjDkPvn-_oCFQAAAAAdAAAAABAE)
+- &&                                                                            
 #### Terminologia
 - and(e)
 
+[!][def]
+
+[def]: (https://ninjadoexcel.com.br/wp-content/uploads/2019/11/Todos-os-resultados-de-Conjun%C3%A7%C3%A3o-de-Tabela-Verdade-no-Excel.png)
