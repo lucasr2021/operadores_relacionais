@@ -29,10 +29,12 @@ os operadores  ou expressão são verdade.
 
  - Disjunção: operação que so é falsa quando ambos os
  operadores ou expressão envolvidas são falsos
+ 
 #### Simbologia:                                                          
 - ||                                                                            
 #### Terminologia
 - or(ou)
+
  O-E | O-E |  R
 :--------- | :------: | -------:
  V | V | V
