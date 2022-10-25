@@ -14,8 +14,7 @@ retornar um resultado
 
 ### Tipos:
 - Conjunção: operação lógica que  só é verdadeira quando ambos   
-os operadores  ou expressão são verdade.  
-                      
+os operadores  ou expressão são verdade.                        
 #### Simbologia:                                                          
 - &&                                                                            
 #### Terminologia
