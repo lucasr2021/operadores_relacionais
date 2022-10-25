@@ -16,7 +16,7 @@ retornar um resultado
 - Conjunção: oeração lógica que  só é verdadeira quando ambos 
 os operadores  ou expressão são verdade.
 #### Simbologia:
-- &&                                                                            image.png
+- &&                                                                            [!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fninjadoexcel.com.br%2Ftabela-verdade-no-excel%2F&psig=AOvVaw3LQQHWCxtg_8U2a45E0AuW&ust=1666802134308000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjDkPvn-_oCFQAAAAAdAAAAABAE)
 #### Terminologia
 - and(e)
 
