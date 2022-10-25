@@ -25,4 +25,3 @@ os operadores  ou expressão são verdade.
  V | V | V
  V | f | f
  f | V | f
- O - operador E - expressao R - resultado
