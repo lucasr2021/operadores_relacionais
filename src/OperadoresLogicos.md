@@ -27,9 +27,11 @@ os operadores  ou expressão são verdade.
  V | f | f
  f | V | f
 
+O - operador E - expressão R - Resultado
+
  - Disjunção: operação que so é falsa quando ambos os
  operadores ou expressão envolvidas são falsos
- 
+
 #### Simbologia:                                                          
 - ||                                                                            
 #### Terminologia
@@ -40,3 +42,33 @@ os operadores  ou expressão são verdade.
  V | V | V
  V | f | v
  f | f | f
+
+- Disjunção exclusiva: operação que so é falsa quando ambos os
+ operadores ou expressão envolvidas são opostos
+
+#### Simbologia:                                                          
+- ^                                                                          
+#### Terminologia
+-xor
+
+ O-E | O-E |  R
+:--------- | :------: | -------:
+ V | V | f
+ V | f | v
+ f | f | f
+
+ - Negação: operação que inverte o valor lógico de um oerando
+ ou expressão
+
+#### Simbologia:                                                          
+- !                                                                         
+#### Terminologia
+- inverção
+
+ O-E | R | 
+:--------- | :------:
+ V | F
+ F | V
+ 
+ - Negação: operação que inverte o valor lógico de um oerando
+ ou expressão
