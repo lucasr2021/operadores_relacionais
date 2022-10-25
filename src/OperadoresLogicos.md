@@ -1,3 +1,4 @@
+
 # Objetivo
 ## 1 Entender o que são operadores lógico
 ## 2 Saber ultiliza-los
@@ -25,3 +26,15 @@ os operadores  ou expressão são verdade.
  V | V | V
  V | f | f
  f | V | f
+
+ - Disjunção: operação que so é falsa quando ambos os
+ operadores ou expressão envolvidas são falsos
+#### Simbologia:                                                          
+- ||                                                                            
+#### Terminologia
+- or(ou)
+ O-E | O-E |  R
+:--------- | :------: | -------:
+ V | V | V
+ V | f | v
+ f | f | f
